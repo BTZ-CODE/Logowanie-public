@@ -1,0 +1,7 @@
+name: BTZ-Login
+version: '0.01-btz'
+main: btz.login.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ BTZ ]
+description: Plugin na Logowanie
